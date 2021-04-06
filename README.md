@@ -1,4 +1,7 @@
 # NuwaSDKExampleUnity
 Nuwa SDK for Unity Platform
 
-Suppport Unity version : 2019
+Nuwa SDK version : 2.1.0.07
+
+Suppport Unity version : 2018.4 later version 
+
